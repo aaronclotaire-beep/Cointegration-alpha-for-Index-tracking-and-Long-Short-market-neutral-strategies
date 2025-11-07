@@ -77,4 +77,8 @@ $$
 w_k = w_k^{+} - w_k^{-},
 $$
 
-which yields a self-financing, (approximately) market-neutral exposure.
+## References
+
+- Alexander, C. & Dimitriu, A. (2002). *The Cointegration Alpha: Enhanced Index Tracking and Long-Short Equity Market Neutral Strategies.*  
+  ISMA Discussion Papers in Finance, 2002-08.  
+  First version: April 2002. This version: June 2002. 
