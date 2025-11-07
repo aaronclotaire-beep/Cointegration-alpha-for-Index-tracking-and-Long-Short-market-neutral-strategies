@@ -73,8 +73,8 @@ $$
 
 Define the long-short portfolio weights as:
 
-\[
+$$
 w_k = w_k^{+} - w_k^{-},
-\]
+$$
 
 which yields a self-financing, (approximately) market-neutral exposure.
