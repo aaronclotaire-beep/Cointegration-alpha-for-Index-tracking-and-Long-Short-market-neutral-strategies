@@ -23,7 +23,7 @@ Instead of using simple correlation, the index-tracking strategy exploits **coin
 ### Methodology
 
 **Stock selection**  
-A subset of index components is chosen (e.g., top 10–30 stocks) based on statistical or economic criteria.
+A subset of index components is chosen based on statistical or economic criteria.
 
 **Weight estimation**  
 Portfolio weights are obtained from an OLS regression of the log-index on the log-prices of selected stocks:
